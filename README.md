@@ -12,7 +12,7 @@
 - 👀 I’m interested in Mobile and Web Development
 - 🔭 I’m exploring Machine Learning in Python
 - 🌱 I'm currently learning Scikit-learn, TensorFlow, and PyTorch
-- 😃 In my free time, I also like playing Chess and Volleyball
+- 😃 In my free time, I also like playing chess and volleyball
 - 📫 Feel free to contact me through Email: `ayushbheemaiah@gmail.com` or Discord: `ayu.s.h`
 
 
