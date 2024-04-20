@@ -2,7 +2,7 @@
 <h3 align="center">Motivated Software Developer from Cupertino, California</h3>
 <h3 align="center">Connect with me: <a href="https://www.linkedin.com/in/ayush-bheemaiah" target="_blank" rel="noopener noreferrer">View LinkedIn</a></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushb08&label=Profile%20views&color=0e75b6&style=flat" alt="ayushb08" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushb08&label=Visitors&color=0e75b6&style=flat" alt="ayushb08" /> </p>
 
 
 <p align="center">
@@ -12,6 +12,7 @@
 - 👀 I’m interested in Mobile and Web Development
 - 🔭 I’m exploring Machine Learning in Python
 - 🌱 I'm currently learning Scikit-learn, TensorFlow, and PyTorch
+- 😃 In my free time, I also like playing Chess and Volleyball
 - 📫 Feel free to contact me through Email: `ayushbheemaiah@gmail.com` or Discord: `ayu.s.h`
 
 
