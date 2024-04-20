@@ -9,7 +9,7 @@
 </p>
 
 - 👋 Hi, I’m @AyushB08, a sophomore at Cupertino High School
-- 👀 I’m interested in Mobile and Web Development
+- 👀 I’m interested in Mobile Development (SwiftUI, Flutter) and Web Development (Next.js, React.js, Tailwind CSS, HTML)
 - 🔭 I’m exploring Machine Learning in Python
 - 🌱 I'm currently learning Scikit-learn, TensorFlow, and PyTorch
 - 😃 In my free time, I also like playing chess and volleyball
